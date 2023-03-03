@@ -36,7 +36,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Arquivos do Trabalho</h5>
                             <p class="card-text">Clique aqui para acessar os arquivos relacionados ao trabalho.</p>
-                            <a href="https://drive.google.com/drive/folders/1haK9CfRLZaCFTyDoePCmMWqugvxVZpQh" target="_blank" class="btn btn-primary">Google Drive</a>
+                            <a href="https://github.com/lucasfurtadosouza/Projeto-PW" target="_blank" class="btn btn-primary">Diretório GitHub</a>
                         </div>
                     </div>
                 </div>
